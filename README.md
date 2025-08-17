@@ -23,6 +23,7 @@ mobuild is built to support mobile developers with:
   - Provides hooks for private modules  
   - Safe for open-source distribution  
   - Updated automatically during builds
+  - supports multiple mobile architectures
 
 ### 🔐 Private Subprojects
 
