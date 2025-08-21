@@ -39,10 +39,11 @@ Performs **low-level device integrity checks** to detect rooted or jailbroken en
 - Blocks execution on compromised devices  
 - Integrates with native OS-level APIs for deep inspection
   
-### `muscipula`
+###  `muscipula`
 Performs threat analysis as a mobile API decoy, before attesting and securing runtime configuration.
 - deception techniques for threat intelligence
-- secure mobile configuration at runtime
+- endpoints for attestation and baiting
+- secure mobile configuration at runtime instead of build time
 ---
 
 ## ⚙️ CI/CD Integration
@@ -63,12 +64,17 @@ We're building toward a smarter, more autonomous platform:
 ### 🔭 Observability
 - Real-time build metrics
 - Runtime diagnostics
-- Security event logging
+- Security event logging and non-repudiation
 
 ### 🤖 AI Self-Healing
 - Automatically creates issues and pull requests
 - Reviews and merges security patches
 - Generates new releases based on telemetry and threat detection
+
+### 🎭 Deception
+- Use of deception techniques for counter-attacks
+- Gathering information for threat analysis
+- Primarly extra layer for authentication
 
 ---
 
