@@ -38,7 +38,11 @@ Adds a dynamic security layer by **randomly obfuscating environment variables** 
 Performs **low-level device integrity checks** to detect rooted or jailbroken environments.  
 - Blocks execution on compromised devices  
 - Integrates with native OS-level APIs for deep inspection
-
+  
+### `muscipula`
+Performs threat analysis as a mobile API decoy, before attesting and securing runtime configuration.
+- deception techniques for threat intelligence
+- secure mobile configuration at runtime
 ---
 
 ## ⚙️ CI/CD Integration
